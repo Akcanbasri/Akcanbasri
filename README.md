@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Data Science and Test Automation**
 
-- 📫 How to reach me **akcanhasanbasri@hotmail.com**
+- 📫 How to reach me **hasanbasriakcan.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
