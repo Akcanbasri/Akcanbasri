@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src = "https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akcanbasri&label=Profile%20views&color=0e75b6&style=flat" alt="akcanbasri" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Data Science, Django, React,**
+- 🌱 I’m currently learning **Machine Learning, Data Science, Django and React,**
 
 - 📫 How to reach me **hasanbasriakcan.com**
 
