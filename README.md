@@ -1,7 +1,11 @@
-![MasterHead](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
+![MasterHead](https://i.imgur.com/c7GmAJf.png)
+
 <h1 align="center">Hi 👋, I'm Hasan Basri Akcan</h1>
 <h3 align="center">I am Hasan Basri, a machine learning enthusiast from Turkey with over a year of experience. I also delve into test automation and aspire to become a full-stack developer, utilizing Django and React. In my free time, I explore cybersecurity, focusing on Kali Linux.</h3>
-<img align="right" alt="Coding" width="400" src = "https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+
+<!-- Rest of your README content remains unchanged -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akcanbasri&label=Profile%20views&color=0e75b6&style=flat" alt="akcanbasri" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Data Science, Django and React**
