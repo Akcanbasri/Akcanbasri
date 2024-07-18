@@ -1,7 +1,7 @@
 ![MasterHead](https://i.imgur.com/c7GmAJf.png)
 
 <h1 align="center">Hi 👋, I'm Hasan Basri Akcan</h1>
-<h3 align="center">I am Hasan Basri, a machine learning enthusiast from Turkey with over a year of experience. I also delve into test automation and aspire to become a full-stack developer, utilizing Django and React. In my free time, I explore cybersecurity, focusing on Kali Linux.</h3>
+<h3 align="center">I am Hasan Basri, a machine learning enthusiast from Turkey with over two year of experience. I also delve into test automation and aspire to become a full-stack developer, utilizing Django and React. In my free time, I explore cybersecurity, focusing on Kali Linux.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <!-- Rest of your README content remains unchanged -->
